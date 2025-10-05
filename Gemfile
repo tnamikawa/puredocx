@@ -5,7 +5,7 @@ gem 'factory_girl'
 gem 'fastimage'
 gem 'rubocop', require: false
 gem 'rubysl-securerandom'
-gem 'rubyzip', '~> 1.1', require: 'zip'
+gem 'rubyzip', '~> 2.4.1', require: 'zip'
 
 group :test do
   gem 'codeclimate-test-reporter', '~> 1.0.0'
